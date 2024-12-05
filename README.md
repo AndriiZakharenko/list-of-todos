@@ -1,12 +1,6 @@
 # React + Redux list of TODOs
 
-> ❗ Read the lesson theory before solving this task
-
-You are given an `app` folder with already implemented `store` and `hooks`.
-Use them to implement [Dynamic list of TODOs](https://github.com/mate-academy/react_dynamic-list-of-todos#react-dynamic-list-of-todos)
-using the Redux. It should look and work identically, so use the same markup.
-
-> Here is [the working version](https://mate-academy.github.io/react_redux-list-of-todos/)
+You are given an `app` folder with already implemented `store` and `hooks`. Implemented using the Redux. 
 
 - `features/currentTodo` contains a sample of all the required types;
 - implement `features/filter` storing `query` and `status`;
@@ -15,7 +9,7 @@ using the Redux. It should look and work identically, so use the same markup.
 - `useAppSelector` already aware of `RootState` so you can write selectors in your
 components (no need to write them in the store file)
 
-## Instructions
-- Install Prettier Extention and use this [VSCode settings](https://mate-academy.github.io/fe-program/tools/vscode/settings.json) to enable format on save.
-- Replace `<your_account>` with your Github username in the [DEMO LINK](https://<your_account>.github.io/react_redux-list-of-todos/)
-- Follow the [React task guideline](https://github.com/mate-academy/react_task-guideline#react-tasks-guideline)
+
+## Demo Links
+
+- [DEMO LINK](https://AndriiZakharenko.github.io/react-tasks-guideline/)
