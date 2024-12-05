@@ -12,4 +12,4 @@ components (no need to write them in the store file)
 
 ## Demo Links
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/react-tasks-guideline/)
+- [DEMO LINK](https://AndriiZakharenko.github.io/react_redux-list-of-todos/)
